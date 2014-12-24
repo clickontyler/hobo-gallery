@@ -1,4 +1,4 @@
-# Wordpress
+# [Wordpress](https://raw.githubusercontent.com/clickontyler/hobo-gallery/master/hobo-files/clickontyler/wordpress/Wordpress.hobo)
 
 This is a simple `.hobo` document that installs the latest version of WordPress on top of Ubuntu 14.04.
 
