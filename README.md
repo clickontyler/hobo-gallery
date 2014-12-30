@@ -16,4 +16,6 @@ We encourage you to contribute useful `.hobo` files to this repository for the b
 
 ## Directory of Hobo Files
 
-This section will contain an annotated directory of all the publicly available `.hobo` files available in this repo.
+This section contains an annotated directory of all the publicly available `.hobo` files available in this repo.
+
+* [Click On Tyler WordPress](https://github.com/clickontyler/hobo-gallery/tree/master/hobo-files/clickontyler/wordpress) - a standard, ready-to-use installation of WordPress on Ubuntu 14.04
