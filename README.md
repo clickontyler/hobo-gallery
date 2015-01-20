@@ -1,4 +1,4 @@
-([Skip to the list of `.hobo` files](https://github.com/clickontyler/hobo-gallery#directory-of-hobo-files)
+([Skip to the list of `.hobo` files](https://github.com/clickontyler/hobo-gallery#directory-of-hobo-files))
 
 ## About Hobo and .hobo Files
 
@@ -21,3 +21,4 @@ We encourage you to contribute useful `.hobo` files to this repository for the b
 This section contains an annotated directory of all the publicly available `.hobo` files available in this repo.
 
 * [Click On Tyler WordPress](https://github.com/clickontyler/hobo-gallery/tree/master/hobo-files/clickontyler/wordpress) - a standard, ready-to-use installation of WordPress on Ubuntu 14.04
+* [Click On Tyler LAMP Stack](https://github.com/clickontyler/hobo-gallery/tree/master/hobo-files/clickontyler/LAMP-stack) - a standard, ready-to-use LAMP (Apache, MySQL, PHP) stack running on Ubuntu 14.04
