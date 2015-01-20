@@ -1,3 +1,5 @@
+([Skip to the list of `.hobo` files](https://github.com/clickontyler/hobo-gallery#directory-of-hobo-files)
+
 ## About Hobo and .hobo Files
 
 [Hobo](http://clickontyler.com/hobo/) is a Mac OS X application by [Click On Tyler](http://clickontyler.com/) that acts as a GUI layer on top of [HashiCorp](https://www.hashicorp.com/)'s [Vagrant](https://www.vagrantup.com/) software.
